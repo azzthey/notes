@@ -10,7 +10,6 @@ author_email:       azralynn.draws@gmail.com # Your email here
 author_gravatar:    8374277dda5bb5ac880fa1f268b80bdf # Your Gravatar md5 hash here for logo
 
 # Site Settings
-url:                www.azzye.uk.to/notes # Change to your site
 baseurl:
 permalink:          /posts/:title # Post permalink
 #timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
