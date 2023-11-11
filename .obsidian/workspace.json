@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "eacb1ab5764f34b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "96741ed51ed73e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb29c804d2699a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-11-10-physique-electricité.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e9aab7b9918ef49",
+    "type": "split",
+    "children": [
+      {
+        "id": "1488701840b27479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7374abc89e89845c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bef94206a344422",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a3ab4e0fc751848",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6316da167ffd489",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e9bf8e74b925ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb90ad7b8fce6d63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-11-10-physique-electricité.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "956577c953609620",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-11-10-physique-electricité.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b581a6d6ca81f40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0879bdcc9d01346",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-11-10-physique-electricité.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "ebb29c804d2699a0",
+  "lastOpenFiles": [
+    "_site/diviseur.png",
+    "diviseur.png",
+    "_site/resistance.png",
+    "_posts/2020-05-25-what-is-jekyll-latex.md",
+    "conv.png",
+    "_site/conv.png",
+    "_posts/2023-11-10-physique-electricité.md",
+    "_site/posts/physique-electricité.html",
+    "_site/posts/2023-11-10-physique-electricité.html",
+    "_site/assets/fonts/LM-regular.woff2",
+    "_site/assets/fonts/LM-regular.woff",
+    "_site/assets/fonts/LM-regular.ttf",
+    "_site/assets/fonts/LM-italic.woff2",
+    "_site/assets/fonts/LM-italic.woff",
+    "_site/assets/fonts/LM-italic.ttf",
+    "_site/assets/fonts/LM-bold.woff2",
+    "_site/assets/fonts/LM-bold.woff",
+    "_site/assets/touch-icon.png",
+    "_site/assets/latex_image_example.jpeg",
+    "_site/assets/jekyll_latex_cover_art.png",
+    "_site/assets/gravatar_wrapper.png",
+    "_site/assets/favicon.png",
+    "_site/Pasted image 20231111095705.png",
+    "_posts/2019-06-20-second-page.md"
+  ]
+}
